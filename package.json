@@ -1,0 +1,21 @@
+{
+  "name": "@dolittle/boilerplates.bounded-context.csharp.interaction.aurelia",
+  "version": "1.0.0",
+  "description": "Standard aurelia interaction layer boilerplate",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolittle-boilerplates/CSharp.BoundedContext.Interaction.Aurelia.git"
+  },
+  "keywords": [
+    "dolittle", "boilerplates", "bounded-context", "interaction-layer", "aurelia"
+  ],
+  "author": "Dolittle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dolittle-boilerplates/CSharp.BoundedContext.Interaction.Aurelia/issues"
+  },
+  "publishConfig": {
+      "access": "public"
+  },
+  "homepage": "https://dolittle.io"
+}
