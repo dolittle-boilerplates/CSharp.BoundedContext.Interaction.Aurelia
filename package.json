@@ -1,6 +1,6 @@
 {
   "name": "@dolittle/boilerplates.interaction.web.js.aurelia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Standard aurelia interaction layer boilerplate",
   "repository": {
     "type": "git",
