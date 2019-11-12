@@ -4,7 +4,7 @@
   "description": "Standard aurelia interaction layer boilerplate",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dolittle-boilerplates/CSharp.BoundedContext.Interaction.Aurelia.git"
+    "url": "git+https://github.com/dolittle-boilerplates/Interaction.Web.JS.Aurelia.git"
   },
   "keywords": ["dolittle", "tooling", "boilerplates", "interaction-layer"],
   "dolittle": {
@@ -13,7 +13,7 @@
   "author": "Dolittle",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dolittle-boilerplates/CSharp.BoundedContext.Interaction.Aurelia/issues"
+    "url": "https://github.com/dolittle-boilerplates/Interaction.Web.JS.Aurelia/issues"
   },
   "publishConfig": {
       "access": "public"
