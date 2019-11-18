@@ -1,2 +1,2 @@
-# Veracity.CSharp.BoundedContext
-C# Bounded Context Boilerplate that sits on top of the existing C# bounded context Boiler Plate and adds a web interaction layer using the React framework
+# Interaction.Web.Js.Aurelia
+Web client Boilerplate as an interaction layer on CSharp bounded context using the Aurelia framework.
